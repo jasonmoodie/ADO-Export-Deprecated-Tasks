@@ -1,0 +1,12 @@
+[
+  {
+    "project": "PartsUnlimited",
+    "deprecated_tasks": [
+      {
+        "task_name": "NuGetInstaller",
+        "version_used": "0.*",
+        "pipeline_name": "PartsUnlimitedE2E"
+      }
+    ]
+  }
+]
